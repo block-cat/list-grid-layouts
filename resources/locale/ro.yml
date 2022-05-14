@@ -1,0 +1,6 @@
+list-grid-layouts:
+  forum:
+    index:
+      list_tooltip: 'Listă'
+      grid_tooltip: 'Grilă'
+      last_reply: 'Ultimul răspuns: '

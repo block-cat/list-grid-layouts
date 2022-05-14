@@ -1,0 +1,32 @@
+{
+  "name": "block-cat/list-grid-layouts",
+  "description": "Change discussions' view",
+  "keywords": [
+    "flarum",
+    "discussion"
+  ],
+  "type": "flarum-extension",
+  "license": "MIT",
+  "require": {
+    "flarum/core": "^0.1.0-beta.15",
+    "flarum/tags": "^0.1.0-beta.15"
+  },
+  "authors": [{
+    "name": "BlockCat"
+  }],
+  "autoload": {
+    "psr-4": {
+      "BlockCat\\ListGridLayouts\\": "src/"
+    }
+  },
+  "extra": {
+    "flarum-extension": {
+      "title": "BkC List/Grid Layout",
+      "icon": {
+        "name": "fas fa-th-list",
+        "backgroundColor": "#238c59",
+        "color": "#fff"
+      }
+    }
+  }
+}

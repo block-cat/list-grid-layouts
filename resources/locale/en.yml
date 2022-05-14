@@ -1,0 +1,6 @@
+list-grid-layouts:
+  forum:
+    index:
+      list_tooltip: 'List'
+      grid_tooltip: 'Grid'
+      last_reply: 'Last reply: '
